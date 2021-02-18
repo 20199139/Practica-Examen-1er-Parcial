@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Practica-Examen-1er-Parcial/1.0.0": {
+        "runtime": {
+          "Practica-Examen-1er-Parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica-Examen-1er-Parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

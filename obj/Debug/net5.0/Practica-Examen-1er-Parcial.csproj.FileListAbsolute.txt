@@ -1,0 +1,16 @@
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\bin\Debug\net5.0\Practica-Examen-1er-Parcial.exe
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\bin\Debug\net5.0\Practica-Examen-1er-Parcial.deps.json
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\bin\Debug\net5.0\Practica-Examen-1er-Parcial.runtimeconfig.json
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\bin\Debug\net5.0\Practica-Examen-1er-Parcial.runtimeconfig.dev.json
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\bin\Debug\net5.0\Practica-Examen-1er-Parcial.dll
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\bin\Debug\net5.0\ref\Practica-Examen-1er-Parcial.dll
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\bin\Debug\net5.0\Practica-Examen-1er-Parcial.pdb
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\Practica-Examen-1er-Parcial.csprojAssemblyReference.cache
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\Practica-Examen-1er-Parcial.GeneratedMSBuildEditorConfig.editorconfig
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\Practica-Examen-1er-Parcial.AssemblyInfoInputs.cache
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\Practica-Examen-1er-Parcial.AssemblyInfo.cs
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\Practica-Examen-1er-Parcial.csproj.CoreCompileInputs.cache
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\Practica-Examen-1er-Parcial.dll
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\ref\Practica-Examen-1er-Parcial.dll
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\Practica-Examen-1er-Parcial.pdb
+F:\TECNOLOGO SEGURIDAD ITLA\4TO CUATRIMESTRE\FUN. DE PROGRAMACIÓN\SEMANA 5 (1er PARCIAL)\Practica-Examen-1er-Parcial\obj\Debug\net5.0\Practica-Examen-1er-Parcial.genruntimeconfig.cache
